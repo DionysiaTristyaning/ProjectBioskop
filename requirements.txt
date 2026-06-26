@@ -1,8 +1,0 @@
-Flask
-python-dotenv
-Flask-SQLAlchemy
-certifi
-pymysql
-cloudinary
-bcrypt
-resend
